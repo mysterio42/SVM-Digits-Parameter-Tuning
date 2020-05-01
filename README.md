@@ -113,7 +113,7 @@ python run.py --load no --gs no
 
 ## Experiment ... (not yet)
 
-# Docker for the RandomForestClassifier  model
+# Docker for the SVM  model
 
 ## Build the Docker image
 
